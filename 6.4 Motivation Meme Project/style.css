@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+#imgbox{
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1{
+    font-family: "Libre";
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    color:  white;
+    text-align: center;
+    font-size: small;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+}
+
